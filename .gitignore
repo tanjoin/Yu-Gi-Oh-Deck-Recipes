@@ -10,7 +10,7 @@ textpattern/
 HISTORY.txt
 README.txt
 
-# we need only deck directory.
+# we need only "deck" directory.
 custom.cdb
 ikpMP3.dll
 replay
