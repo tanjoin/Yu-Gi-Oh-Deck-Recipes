@@ -31,3 +31,13 @@ gframe.exe
 lflist.conf
 
 deck/AI_*
+
+*.exe
+updates/
+sound/
+skin/
+*.dll
+language/
+fonts/
+expansions/
+ai/
